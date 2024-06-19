@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/drago/Documents/Ironhack/Week8/lab-ml-ops/running-mlflow-examples/mlruns/929690633735909359/6680d859181848ab945f617b22dada49/artifacts
+end_time: 1718718681588
+entry_point_name: ''
+experiment_id: '929690633735909359'
+lifecycle_stage: active
+run_id: 6680d859181848ab945f617b22dada49
+run_name: classy-rat-772
+run_uuid: 6680d859181848ab945f617b22dada49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718718677154
+status: 3
+tags: []
+user_id: drago
